@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Lixiod Technologies
+
 import tkinter as tk
 from tkinter import ttk
 import math
